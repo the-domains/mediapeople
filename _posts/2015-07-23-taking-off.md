@@ -11,7 +11,7 @@ tags:
   - Oklahoma
   - Talking
   - Co.
-dateModified: '2015-07-24T03:16:35.978Z'
+dateModified: '2015-07-24T03:34:53.698Z'
 sourcePath: _posts/2015-07-23-taking-off.md
 published: true
 authors: []
